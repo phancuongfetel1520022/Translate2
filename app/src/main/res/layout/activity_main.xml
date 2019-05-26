@@ -35,7 +35,7 @@
                    android:layout_centerHorizontal="true"
                    android:layout_marginTop="5dp" android:layout_marginBottom="5dp"/>
 
-        <TextView
+        <EditText
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:text="Vietnamese"
@@ -170,7 +170,7 @@
                    android:layout_marginBottom="5dp"
                    android:layout_marginLeft="165dp"/>
 
-        <TextView
+        <EditText
 
                 android:hint="Your translation appears here"
                 android:layout_width="match_parent"
